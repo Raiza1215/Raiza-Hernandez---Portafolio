@@ -4,7 +4,7 @@
 
 Este panel de control permite la visualización de datos de ventas mediante el uso de tablas dinámicas, segmentadores de datos y gráficos avanzados, facilitando la toma de decisiones administrativas.
 
-![Dashboard de Ventas](./Reporte Administrativo Excel.png)
+![Panel de Ventas](./Reporte Administrativo Excel.png)
 
 ### Competencias demostradas en este proyecto:
 
